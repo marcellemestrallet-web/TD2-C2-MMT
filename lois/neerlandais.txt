@@ -1,0 +1,8 @@
+In de informatica helpen verschillende bekende wetten en observaties ons
+na te denken over de ontwikkeling van systemen en software. De wet van
+Moore beschrijft de snelle toename van de capaciteit van elektronische
+schakelingen. De wet van Wirth stelt dat software sneller trager kan
+worden dan hardware sneller wordt. Ten slotte herinnert de wet van
+Murphy ons eraan dat, wanneer een fout mogelijk is, die uiteindelijk zal
+optreden. Deze drie principes benadrukken hoe belangrijk het is om
+eenvoudige, efficiënte en robuuste programma’s te ontwerpen.

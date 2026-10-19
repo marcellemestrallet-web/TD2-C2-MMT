@@ -1,0 +1,7 @@
+Inden for datalogi hjælper flere berømte love og observationer os med at
+tænke over udviklingen af systemer og software. Moores lov beskriver den
+hurtige stigning i elektroniske kredsløbs kapacitet. Wirths lov påpeger,
+at software kan blive langsommere hurtigere, end hardware bliver
+hurtigere. Endelig minder Murphys lov os om, at hvis en fejl er mulig,
+vil den før eller siden opstå. Disse tre principper viser, hvor vigtigt
+det er at udvikle enkle, effektive og robuste programmer.

@@ -1,0 +1,8 @@
+W informatyce kilka znanych praw i obserwacji pozwala zastanowić się nad
+rozwojem systemów i oprogramowania. Prawo Moore’a opisuje szybki wzrost
+możliwości układów elektronicznych. Prawo Wirtha wskazuje, że
+oprogramowanie może zwalniać szybciej, niż sprzęt staje się szybszy.
+Wreszcie prawo Murphy’ego przypomina, że jeśli wystąpienie błędu jest
+możliwe, prędzej czy później błąd się pojawi. Te trzy zasady pokazują,
+jak ważne jest projektowanie programów prostych, wydajnych i odpornych
+na błędy.

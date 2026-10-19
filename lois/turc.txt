@@ -1,0 +1,7 @@
+Bilişim alanında, birçok ünlü yasa ve gözlem sistemlerin ve yazılımların
+gelişimi üzerine düşünmemize yardımcı olur. Moore yasası, elektronik
+devrelerin kapasitesindeki hızlı artışı açıklar. Wirth yasası, yazılımın
+donanımın hızlanmasından daha hızlı bir şekilde yavaşlayabileceğini
+belirtir. Son olarak Murphy yasası, bir hata mümkünse er ya da geç
+gerçekleşeceğini hatırlatır. Bu üç ilke, basit, verimli ve sağlam
+programlar tasarlamanın önemini ortaya koyar.

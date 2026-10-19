@@ -1,0 +1,8 @@
+In informatica, diverse leggi e osservazioni famose permettono di
+riflettere sull’evoluzione dei sistemi e del software. La legge di Moore
+descrive il rapido aumento della capacità dei circuiti elettronici. La
+legge di Wirth sottolinea che il software può diventare più lento più
+rapidamente di quanto l’hardware diventi più veloce. Infine, la legge di
+Murphy ricorda che, quando un errore è possibile, prima o poi si
+verificherà. Questi tre principi evidenziano l’importanza di progettare
+programmi semplici, efficienti e robusti.

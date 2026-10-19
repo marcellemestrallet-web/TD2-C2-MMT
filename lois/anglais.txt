@@ -1,0 +1,7 @@
+In computer science, several famous laws and observations help us think
+about the evolution of systems and software. Moore’s law describes the
+rapid increase in the capacity of electronic circuits. Wirth’s law
+points out that software can become slower faster than hardware becomes
+faster. Finally, Murphy’s law reminds us that when an error is possible,
+it will eventually occur. These three principles highlight the
+importance of designing programs that are simple, efficient, and robust.

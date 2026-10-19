@@ -1,0 +1,8 @@
+Tietojenkäsittelytieteessä useat tunnetut lait ja havainnot auttavat
+meitä pohtimaan järjestelmien ja ohjelmistojen kehitystä. Mooren laki
+kuvaa elektronisten piirien kapasiteetin nopeaa kasvua. Wirthin laki
+korostaa, että ohjelmistot voivat hidastua nopeammin kuin laitteistot
+nopeutuvat. Murphyn laki puolestaan muistuttaa, että jos virhe on
+mahdollinen, se tapahtuu ennemmin tai myöhemmin. Nämä kolme periaatetta
+korostavat yksinkertaisten, tehokkaiden ja vankkojen ohjelmien
+suunnittelun merkitystä.

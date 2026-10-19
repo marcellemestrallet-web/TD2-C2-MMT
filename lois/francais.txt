@@ -1,0 +1,8 @@
+En informatique, plusieurs lois et observations célèbres permettent de
+réfléchir à l’évolution des systèmes et des logiciels. La loi de Moore
+décrit l’augmentation rapide de la capacité des circuits électroniques.
+La loi de Wirth souligne que les logiciels peuvent devenir plus lents
+plus rapidement que le matériel ne devient plus rapide. Enfin, la loi de
+Murphy rappelle que, lorsqu’une erreur est possible, elle finira par se
+produire. Ces trois principes mettent en évidence l’importance de
+concevoir des programmes simples, efficaces et robustes.

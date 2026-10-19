@@ -1,0 +1,7 @@
+V informatice nám několik známých zákonů a pozorování umožňuje přemýšlet
+o vývoji systémů a softwaru. Moorův zákon popisuje rychlý růst kapacity
+elektronických obvodů. Wirthův zákon upozorňuje, že software může
+zpomalovat rychleji, než se hardware zrychluje. Murphyho zákon nám
+nakonec připomíná, že pokud je chyba možná, dříve či později nastane.
+Tyto tři principy ukazují, jak důležité je navrhovat jednoduché,
+efektivní a robustní programy.

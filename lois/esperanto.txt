@@ -1,0 +1,7 @@
+En komputiko, pluraj famaj leĝoj kaj observoj helpas nin pripensi la
+evoluon de sistemoj kaj programaro. La leĝo de Moore priskribas la
+rapidan kreskon de la kapablo de elektronikaj cirkvitoj. La leĝo de
+Wirth atentigas, ke programaro povas iĝi pli malrapida pli rapide ol
+aparataro iĝas pli rapida. Fine, la leĝo de Murphy memorigas, ke kiam
+eraro estas ebla, ĝi eventuale okazos. Ĉi tiuj tri principoj montras la
+gravecon krei programojn simplajn, efikajn kaj fortikajn.

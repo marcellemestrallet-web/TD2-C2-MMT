@@ -1,0 +1,8 @@
+Inom datavetenskapen hjälper flera berömda lagar och observationer oss
+att fundera över utvecklingen av system och programvara. Moores lag
+beskriver den snabba ökningen av elektroniska kretsars kapacitet. Wirths
+lag påpekar att programvara kan bli långsammare snabbare än hårdvara
+blir snabbare. Slutligen påminner Murphys lag oss om att ett fel som kan
+inträffa förr eller senare kommer att inträffa. Dessa tre principer
+visar hur viktigt det är att utveckla enkla, effektiva och robusta
+program.

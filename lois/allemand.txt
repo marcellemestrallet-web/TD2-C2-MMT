@@ -1,0 +1,9 @@
+In der Informatik helfen mehrere bekannte Gesetze und Beobachtungen
+dabei, über die Entwicklung von Systemen und Software nachzudenken. Das
+Mooresche Gesetz beschreibt die rasche Zunahme der Leistungsfähigkeit
+elektronischer Schaltungen. Das Wirthsche Gesetz weist darauf hin, dass
+Software schneller langsamer werden kann, als Hardware schneller wird.
+Schließlich erinnert uns das Murphysche Gesetz daran, dass ein Fehler,
+wenn er möglich ist, irgendwann auftreten wird. Diese drei Prinzipien
+verdeutlichen, wie wichtig es ist, einfache, effiziente und robuste
+Programme zu entwickeln.
